@@ -17,7 +17,7 @@
 
 ## TL;DR
 
-You can fork this repo to modify and make changes of your own. Please give me proper credit by linking back to [Sahdev04](https://github.com/sahdev04). Thanks!
+You can fork this repo to modify and make changes of your own. Please give me proper credit by linking back to [Sahdev04][(https://github.com/sahdev04)](https://github.com/sahdev04/Personal_Portfolio). Thanks!
 
 ## Built With
 
