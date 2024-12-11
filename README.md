@@ -1,5 +1,5 @@
 <h2 align="center">
-  Portfolio Website - v2.0<br/>
+  Portfolio Website<br/>
 
 </h2>
 <div align="center">
@@ -21,7 +21,7 @@ You can fork this repo to modify and make changes of your own. Please give me pr
 
 ## Built With
 
-My personal portfolio <a href="https://github.com/sahdev04" target="_blank">sahdev.tech</a> which features some of my github projects as well as my resume and technical skills.<br/>
+My personal portfolio <a href="https://github.com/sahdev04" target="_blank"></a> which features some of my github projects as well as my resume and technical skills.<br/>
 
 This project was built using these technologies.
 
