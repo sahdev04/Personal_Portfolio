@@ -3,7 +3,7 @@
 
 </h2>
 <div align="center">
-  <img alt="Demo" src="./Images/readme-img1.png" />
+  <img alt="Demo" src="./Images/PATEL-removebg.png" />
 </div>
 
 <br/>
